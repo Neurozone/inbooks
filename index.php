@@ -83,7 +83,7 @@ try
 	$path_parts = pathinfo($path);
 	$name = $path_parts['basename'];
 
-	$mysqli = new mysqli("localhost", "root", "Kaorutabrisange9", "ebooks");
+	$mysqli = new mysqli("localhost", "root", "", "ebooks");
 
 	$escaped_name = $mysqli->real_escape_string($name);
 	$sql_query = "SELECT count(*) as cn FROM ebooks.import_ebooks where path = '" . $escaped_name . "';";
