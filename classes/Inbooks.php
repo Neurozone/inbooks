@@ -132,12 +132,15 @@ class Inbooks
 
             foreach($package->manifest as $item)
             {
-                //$item->id['$t']
-
+                echo $item;
+/*
                 foreach($item as $i )
                 {
-                    print_r($i);
+                    print_r($i[0]['id']);
+                    print_r($i[0]['href']);
+                    //print_r(array(id => $i['href']));
                 }
+*/
             }
         }
     }
