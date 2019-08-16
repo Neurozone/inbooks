@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:3A2EAE24-6BFF-1014-8AB4-CC603B2A34CF" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Les Diaboliques</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jules Amédée Barbey dAurevilly</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="Première préface aux Diaboliques" playOrder="1" class="">
+      <navLabel>
+        <text>Première préface aux Diaboliques</text>
+      </navLabel>
+      <content src="book_0001.xhtml#auto-toc0" />
+    </navPoint>
+    <navPoint id="Préface de la première édition" playOrder="2" class="">
+      <navLabel>
+        <text>Préface de la première édition</text>
+      </navLabel>
+      <content src="book_0002.xhtml#auto-toc1" />
+    </navPoint>
+    <navPoint id="Le rideau cramoisi " playOrder="3" class="">
+      <navLabel>
+        <text>Le rideau cramoisi </text>
+      </navLabel>
+      <content src="book_0003.xhtml#auto-toc2" />
+    </navPoint>
+    <navPoint id="Le plus bel amour de Don Juan " playOrder="4" class="">
+      <navLabel>
+        <text>Le plus bel amour de Don Juan </text>
+      </navLabel>
+      <content src="book_0004.xhtml#auto-toc3" />
+      <navPoint id="I" playOrder="5" class="">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="book_0005.xhtml#auto-toc4" />
+      </navPoint>
+      <navPoint id="II" playOrder="6" class="">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="book_0006.xhtml#auto-toc5" />
+      </navPoint>
+      <navPoint id="III" playOrder="7" class="">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="book_0007.xhtml#auto-toc6" />
+      </navPoint>
+      <navPoint id="IV" playOrder="8" class="">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="book_0008.xhtml#auto-toc7" />
+      </navPoint>
+      <navPoint id="V" playOrder="9" class="">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="book_0009.xhtml#auto-toc8" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="Le bonheur dans le crime" playOrder="10" class="">
+      <navLabel>
+        <text>Le bonheur dans le crime</text>
+      </navLabel>
+      <content src="book_0010.xhtml#auto-toc9" />
+    </navPoint>
+    <navPoint id="Le dessous de cartes d’une partie de whist " playOrder="11" class="">
+      <navLabel>
+        <text>Le dessous de cartes d’une partie de whist </text>
+      </navLabel>
+      <content src="book_0011.xhtml#auto-toc10" />
+      <navPoint id="I" playOrder="12" class="">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="book_0012.xhtml#auto-toc11" />
+      </navPoint>
+      <navPoint id="II" playOrder="13" class="">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="book_0013.xhtml#auto-toc12" />
+      </navPoint>
+      <navPoint id="III" playOrder="14" class="">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="book_0014.xhtml#auto-toc13" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="À un dîner d’athées" playOrder="15" class="">
+      <navLabel>
+        <text>À un dîner d’athées</text>
+      </navLabel>
+      <content src="book_0015.xhtml#auto-toc14" />
+    </navPoint>
+    <navPoint id="La vengeance d’une femme" playOrder="16" class="">
+      <navLabel>
+        <text>La vengeance d’une femme</text>
+      </navLabel>
+      <content src="book_0016.xhtml#auto-toc15" />
+    </navPoint>
+    <navPoint id="À propos de cette édition électronique" playOrder="17" class="">
+      <navLabel>
+        <text>À propos de cette édition électronique</text>
+      </navLabel>
+      <content src="book_0017.xhtml#auto-toc16" />
+    </navPoint>
+  </navMap>
+</ncx>

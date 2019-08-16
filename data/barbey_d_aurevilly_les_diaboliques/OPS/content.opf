@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Les Diaboliques</dc:title>
+    <dc:creator opf:file-as="dAurevilly, Jules Amédée Barbey" opf:role="aut">Jules Amédée Barbey dAurevilly</dc:creator>
+    <dc:language>fr</dc:language>
+    <dc:subject>Nouvelles</dc:subject>
+    <dc:publisher>Ebooks libres et gratuits</dc:publisher>
+    <dc:description>1850 – 1874 Des histoires d'une noirceur totale, avec des sujets singuliers, tantôt extraordinaires, tantôt hors du commun, toutes histoires tragiques et cruelles, quand elles ne sont pas tragiquement cruelles</dc:description>
+    <dc:date opf:event="creation">2013-09-11T23:23:02Z</dc:date>
+    <meta name="office:version" content="LibreOffice/4.0.0.3$Windows_x86 LibreOffice_project/7545bee9c2a0782548772a21bc84a9dcc583b89" />
+    <meta name="office:last-modification-date" content="2013-09-12T01:21:00" />
+    <meta name="office:creation-date" content="2013-09-12T01:16:00" />
+    <meta name="amanuensis:generator" content="amanuensis" />
+    <meta name="amanuensis:version" content="green snake 22" />
+    <meta name="amanuensis:xhtml-creation-date" content="2013-09-12T01:22:58" />
+    <meta name="cover" content="img1" />
+    <dc:identifier id="BookId">urn:uuid:3A2EAE24-6BFF-1014-8AB4-CC603B2A34CF</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="css1" href="style.css" media-type="text/css" />
+    <item id="img1" href="cover.jpg" media-type="image/jpeg" />
+    <item id="ch1" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch2" href="book_0000.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch3" href="book_0001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch4" href="book_0002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch5" href="book_0003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch6" href="book_0004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch7" href="book_0005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch8" href="book_0006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch9" href="book_0007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch10" href="book_0008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch11" href="book_0009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch12" href="book_0010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch13" href="book_0011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch14" href="book_0012.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch15" href="book_0013.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch16" href="book_0014.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch17" href="book_0015.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch18" href="book_0016.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch19" href="book_0017.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ch1" />
+    <itemref idref="ch2" />
+    <itemref idref="ch3" />
+    <itemref idref="ch4" />
+    <itemref idref="ch5" />
+    <itemref idref="ch6" />
+    <itemref idref="ch7" />
+    <itemref idref="ch8" />
+    <itemref idref="ch9" />
+    <itemref idref="ch10" />
+    <itemref idref="ch11" />
+    <itemref idref="ch12" />
+    <itemref idref="ch13" />
+    <itemref idref="ch14" />
+    <itemref idref="ch15" />
+    <itemref idref="ch16" />
+    <itemref idref="ch17" />
+    <itemref idref="ch18" />
+    <itemref idref="ch19" />
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Couverture" />
+  </guide>
+</package>
